@@ -1,6 +1,6 @@
 # README
 
-The following is all AI generated, it was really happy about the project, sorry if you hate it. 
+The following text(not the code) is all AI generated, it was really happy about the project, sorry if you hate it. 
 
 
 ### Welcome to My Hebrew NLP and Gematria Project!
