@@ -1,5 +1,8 @@
 # README
 
+The following is all AI generated, it was really happy about the project, sorry if you hate it. 
+
+
 ### Welcome to My Hebrew NLP and Gematria Project!
 
 Hi there! 👋 I noticed an interesting intersection between text embeddings (like the ones we get from models like BERT) and the natural number values assigned to letters in ancient Aramaic and Hebrew—what's often called **gematria**. This isn’t about claiming mystical connections or deep truths, but more about exploring **patterns**—whether they’re human-made or just statistically interesting.
